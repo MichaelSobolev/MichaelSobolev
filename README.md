@@ -13,7 +13,7 @@
   - Git; 
 - 🌱 I’m currently learning Java Script and Web Development
 - 📫 How to reach me:
-  - [email](alsm16.wm@gmail.com)  
+  - email;alsm16.wm@gmail.com
   - [telegram](t.me/MichaelSobolev_tg)  
 
 <!---
