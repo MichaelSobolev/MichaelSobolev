@@ -11,7 +11,6 @@
   - CSS;
   - HTML;
   - Git; 
-- 🌱 I’m currently learning Typescript
 - 📫 How to reach me:
   - email;alsm16.wm@gmail.com
   - [telegram](t.me/MichaelSobolev_tg)  
