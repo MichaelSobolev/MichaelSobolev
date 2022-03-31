@@ -1,14 +1,17 @@
 - 👋 Hi, I’m @MichaelSobolev
 - ✅ My skills:
   - Javascript;
+  - Typescript
   - React;
   - Redux;
   - Redux-thunk
+  - Vue.js
   - Node.js;
   - PostgreSQL;
   - Express;
   - Sequelize;
   - CSS;
+  - Sass/Scss
   - HTML;
   - Git; 
 - 📫 How to reach me:
