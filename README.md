@@ -16,7 +16,7 @@
   - Git; 
 - 📫 How to reach me:
   - email;alsm16.wm@gmail.com
-  - [telegram](t.me/MichaelSobolev_tg)  
+  - [telegram](https://t.me/MichaelSobolev_tg)  
 
 <!---
 MichaelSobolev/MichaelSobolev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
